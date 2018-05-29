@@ -18,7 +18,7 @@ enableEmoji      = true
 
 [Params]
         description      = "User1 repository for Docs and Other info"
-	subtitle         = "Technical Documents, Roadmaps, Treasures, and other Random Stuff"
+	subtitle         = "Technical Documents, Roadmaps, Treasures, and few Random Thoughts"
         opengraph        = true
         twitter_cards    = false
         readmore         = false
