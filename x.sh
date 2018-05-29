@@ -10,12 +10,12 @@ mkdir -p public/user1/docs/img
 #   Find all names beginning in cover_
 #   Copy them to 2 different directories:
 #       1.  ./public/img
-#       2.  ./public/user1/docs/img
+#       2.  ./public/user1/img
 #
 #   This works around some link-generation bugs in hugo
-#
-find content -name cover_* -exec cp {} ./public/img            \;
-find content -name cover_* -exec cp {} ./public/user1/docs/img \;
+
+find content -name cover_* -exec cp {} ./public/img        \;
+find content -name cover_* -exec cp {} ./public/user1/img  \;
 
 
 cp ./public/img/README.txt ./public/README.md
