@@ -14,6 +14,7 @@ enableEmoji      = true
 	name           = "User One"
 	bio            = "Computer Nerd, Business Analyst, closet Font enthusiast"
 	avatar         = "img/user1.png"
+        about          = true
 
 [Params]
         description      = "User1 repository for Docs and Other info"

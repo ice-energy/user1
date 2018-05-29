@@ -1,5 +1,8 @@
-<h1>Johnny Reed</h1>
+<h1>User One</h1>
 
 ----
 <br>
-Firmware guy, linux expert, Master of making stuff work
+Need a few lines here for About
+
+Glasses wearing logical thinking pragmatist by day, tv-watching shopping
+channel addict by night.
