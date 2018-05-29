@@ -2,7 +2,7 @@
 title: "CDC3_Host"
 date: 2018-05-23T15:52:28-07:00
 draft: false
-cover: "/jreed/img/cover_CDC3Host.jpg"
+thumbnail: "/mr/img/cover_CDC3Host.jpg"
 tags:
   - "zmq"
   - "linux"
@@ -13,10 +13,6 @@ description: "This document describes the architecture of the
 'Interface' is a physical USB connection between the Linux box and the
 CDC3 Control Processor"
 menu: main
----
-
-![Intro](../img/cover_CDC3Host.jpg)
-
 ---
 
 **Quick Summary**  This document describes the architecture of the

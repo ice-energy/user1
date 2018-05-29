@@ -8,12 +8,12 @@ categories:
 - Systems/Solutions
 description : "Because every Mad (Computer) Scientist needs their Hardware Wall-Mounted"
 draft: false
-cover: "/jreed/img/cover_wallmounted.jpg"
+thumbnail: "/mr/img/cover_wallmounted.jpg"
 menu: main
 
 ---
 
-![pic1](../img/cover_wallmounted.jpg)
+Because every Mad (Computer) Scientist needs their Hardware Wall-Mounted!
 
 ---
 

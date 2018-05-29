@@ -1,15 +1,15 @@
 ---
 title: "Proj_Ready_For_Pic"
 date:  2018-05-11T21:52:28-07:00
-draft: false
-cover: "/jreed/img/cover_rfpic.jpg"
+thumbnail: "/mr/img/cover_rfpic.jpg"
 tags:
   - "PIC"
 categories:
   - "bareboards"
 menu: main
 ---
-![Intro](../img/cover_rfpic.jpg)
+
+**Quick Summary**  Program showing proper initialization and startup of the oscillator
 
 ---
 

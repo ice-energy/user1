@@ -1,42 +1,49 @@
-baseURL                = "https://ice-energy.github.io/jreed"
+baseURL                = "http://192.168.11.247/mr"
 languageCode           = "en-us"
 defaultContentLanguage = "en"
-title                  = "JohnnyReedProjects"
-theme                  = "dream-plus"
+title                  = "User1_Docs_nStuff"
+theme                  = "mainroad"
+paginate               = "8"
 canonifyURLs           = false
 
-pygmentsCodeFences = true
-pygmentsUseClasses = true
-pygmentsOptions    = "linenos=table"
-
-#disqusShortname = "dream-plus"
+#disqusShortname = ""
 enableRobotsTXT  = true
 enableEmoji      = true
 
-[params]
-	author           = "John Reed"
-	description      = "My Projects: A Placeholder for Notes & Documentation"
-	avatar           = "img/jr.jpg"
-	motto            = "Computer guy, Golfer dude"
-	enableToc        = true
-	#enableShareCard = true
+[Author]
+	name           = "User One"
+	bio            = "Computer Nerd, Business Analyst, closet Font enthusiast"
+	avatar         = "img/user1.png"
 
-	favicon = "img/defaultFav.ico"
-  	
-  	#Background settings
-	#enableColorBG = false
-	#bgBlur        = "0px"
-	#bgImage       = "http://bit.ly/2gPLxZ4"
-  
-	#Post-displaying Settings
-	enableTags       = true
-	enableCategories = true
+[Params]
+        description      = "User1 repository for Docs and Other info"
+	subtitle         = "Good documentation is essential to successful projects"
+        opengraph        = true
+        twitter_cards    = false
+        readmore         = false
+        leftsidebar      = false    # Move sidebar to the left side if true
+        authorbox        = true     # Show authorbox at bottom of pages if true
+        post_navigation  = true     # Show post navigation at bottom of pages if true
+        postSections     = ["post"] # the section pgs to show on HomePg and Recent articles" widget
+       #postSections     = ["blog", "news"] # alternative that shows more than one section's pages
+       #dateformat       = "2006-01-02" # change the format of dates
 
-	itemsPerPage = 4                          # Cards or posts shown per page
-	contentType = "post"                      # Set whether you're hosting "cards" or "post"
-	#twitterEmoji=true
+       #enableToc        = true
+       #enableShareCard  = true
 
-[social]
-	email         = "jreed@ice-energy.com"
-	github        = "github.com/ice-energy"
-	siteStartYear = 2018
+[Params.widgets]
+    search              = true  # Enable "Search" widget
+    recent_articles     = true  # Enable "Recent articles" widget
+    recent_articles_num = 5     # Set the number of articles in the "Recent articles" widget
+    categories          = true  # Enable "Categories" widget
+    tags                = true  # Enable "Tags" widget
+    tags_counter        = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    #social_facebook     = "username"
+    #social_twitter      = "username"
+    social_linkedin     = "user1@ice-energy.com"
+    social_github       = "github.com/ice-energy"
+    social_email        = "user1@ice-energy.com"
+    #social_google_plus  = "profileid"
+
+

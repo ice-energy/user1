@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pic on User1_Docs_nStuff</title>
+    <link>http://192.168.11.247/mr/tags/pic/</link>
+    <description>Recent content in Pic on User1_Docs_nStuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 May 2018 21:52:28 -0700</lastBuildDate>
+    
+	<atom:link href="http://192.168.11.247/mr/tags/pic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proj_Ready_For_Pic</title>
+      <link>http://192.168.11.247/mr/post/post_001/proj_readyforpic/</link>
+      <pubDate>Fri, 11 May 2018 21:52:28 -0700</pubDate>
+      
+      <guid>http://192.168.11.247/mr/post/post_001/proj_readyforpic/</guid>
+      <description>Quick Summary Program showing proper initialization and startup of the oscillator
+Hello World Random Random Random</description>
+    </item>
+    
+  </channel>
+</rss>
