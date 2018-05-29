@@ -42,9 +42,9 @@ enableEmoji      = true
 
     #social_facebook     = "username"
     #social_twitter      = "username"
-    social_linkedin     = "user1@ice-energy.com"
-    social_github       = "github.com/ice-energy"
-    social_email        = "user1@ice-energy.com"
+    social_linkedin      = "user1"
+    social_github        = "ice-energy/user1"
+    social_email         = "user1@ice-energy.com"
     #social_google_plus  = "profileid"
 
 
