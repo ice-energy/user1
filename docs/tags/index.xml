@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on User1_Docs_nStuff</title>
-    <link>http://192.168.11.247/mr/tags/</link>
+    <link>http://192.168.11.247/user1/tags/</link>
     <description>Recent content in Tags on User1_Docs_nStuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://192.168.11.247/mr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://192.168.11.247/user1/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Golang</title>
-      <link>http://192.168.11.247/mr/tags/golang/</link>
+      <link>http://192.168.11.247/user1/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/golang/</guid>
+      <guid>http://192.168.11.247/user1/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://192.168.11.247/mr/tags/linux/</link>
+      <link>http://192.168.11.247/user1/tags/linux/</link>
       <pubDate>Wed, 23 May 2018 15:52:28 -0700</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/linux/</guid>
+      <guid>http://192.168.11.247/user1/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modbus</title>
-      <link>http://192.168.11.247/mr/tags/modbus/</link>
+      <link>http://192.168.11.247/user1/tags/modbus/</link>
       <pubDate>Fri, 25 May 2018 14:55:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/modbus/</guid>
+      <guid>http://192.168.11.247/user1/tags/modbus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pic</title>
-      <link>http://192.168.11.247/mr/tags/pic/</link>
+      <link>http://192.168.11.247/user1/tags/pic/</link>
       <pubDate>Fri, 11 May 2018 21:52:28 -0700</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/pic/</guid>
+      <guid>http://192.168.11.247/user1/tags/pic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plc</title>
-      <link>http://192.168.11.247/mr/tags/plc/</link>
+      <link>http://192.168.11.247/user1/tags/plc/</link>
       <pubDate>Fri, 25 May 2018 14:55:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/plc/</guid>
+      <guid>http://192.168.11.247/user1/tags/plc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>http://192.168.11.247/mr/tags/ubuntu/</link>
+      <link>http://192.168.11.247/user1/tags/ubuntu/</link>
       <pubDate>Sat, 26 May 2018 12:19:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/ubuntu/</guid>
+      <guid>http://192.168.11.247/user1/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zmq</title>
-      <link>http://192.168.11.247/mr/tags/zmq/</link>
+      <link>http://192.168.11.247/user1/tags/zmq/</link>
       <pubDate>Wed, 23 May 2018 15:52:28 -0700</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/zmq/</guid>
+      <guid>http://192.168.11.247/user1/tags/zmq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zomeminder</title>
-      <link>http://192.168.11.247/mr/tags/zomeminder/</link>
+      <link>http://192.168.11.247/user1/tags/zomeminder/</link>
       <pubDate>Sat, 26 May 2018 12:19:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/mr/tags/zomeminder/</guid>
+      <guid>http://192.168.11.247/user1/tags/zomeminder/</guid>
       <description></description>
     </item>
     
