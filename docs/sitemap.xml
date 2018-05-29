@@ -3,120 +3,120 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.11.247/user1/post/post_008/wallmounted_desktop/</loc>
+    <loc>https://ice-energy.github.io/user1/post/post_008/wallmounted_desktop/</loc>
     <lastmod>2018-05-26T12:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/post/post_007/plc_controls_icebear/</loc>
+    <loc>https://ice-energy.github.io/user1/post/post_007/plc_controls_icebear/</loc>
     <lastmod>2018-05-25T14:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/post/post_002/cdc3_host/</loc>
+    <loc>https://ice-energy.github.io/user1/post/post_002/cdc3_host/</loc>
     <lastmod>2018-05-23T15:52:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/post/post_001/proj_readyforpic/</loc>
+    <loc>https://ice-energy.github.io/user1/post/post_001/proj_readyforpic/</loc>
     <lastmod>2018-05-11T21:52:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/post/post_005/goisforlovers/</loc>
+    <loc>https://ice-energy.github.io/user1/post/post_005/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/about/</loc>
+    <loc>https://ice-energy.github.io/user1/about/</loc>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/categories/bareboards/</loc>
+    <loc>https://ice-energy.github.io/user1/categories/bareboards/</loc>
     <lastmod>2018-05-11T21:52:28-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/categories/</loc>
+    <loc>https://ice-energy.github.io/user1/categories/</loc>
     <lastmod>2018-05-11T21:52:28-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/categories/development/</loc>
+    <loc>https://ice-energy.github.io/user1/categories/development/</loc>
     <lastmod>2018-05-23T15:52:28-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/linux/</loc>
-    <lastmod>2018-05-23T15:52:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/modbus/</loc>
-    <lastmod>2018-05-25T14:55:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/pic/</loc>
-    <lastmod>2018-05-11T21:52:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/plc/</loc>
-    <lastmod>2018-05-25T14:55:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/post/</loc>
-    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/categories/systems/solutions/</loc>
-    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/</loc>
+    <loc>https://ice-energy.github.io/user1/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/tags/ubuntu/</loc>
-    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/</loc>
-    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://192.168.11.247/user1/tags/zmq/</loc>
+    <loc>https://ice-energy.github.io/user1/tags/linux/</loc>
     <lastmod>2018-05-23T15:52:28-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.11.247/user1/tags/zomeminder/</loc>
+    <loc>https://ice-energy.github.io/user1/tags/modbus/</loc>
+    <lastmod>2018-05-25T14:55:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/pic/</loc>
+    <lastmod>2018-05-11T21:52:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/plc/</loc>
+    <lastmod>2018-05-25T14:55:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/post/</loc>
+    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/categories/systems/solutions/</loc>
+    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/ubuntu/</loc>
+    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/</loc>
+    <lastmod>2018-05-26T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/zmq/</loc>
+    <lastmod>2018-05-23T15:52:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ice-energy.github.io/user1/tags/zomeminder/</loc>
     <lastmod>2018-05-26T12:19:00+00:00</lastmod>
     <priority>0</priority>
   </url>

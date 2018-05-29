@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on User1_Docs_nStuff</title>
-    <link>http://192.168.11.247/user1/categories/</link>
+    <link>https://ice-energy.github.io/user1/categories/</link>
     <description>Recent content in Categories on User1_Docs_nStuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 May 2018 21:52:28 -0700</lastBuildDate>
     
-	<atom:link href="http://192.168.11.247/user1/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ice-energy.github.io/user1/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bareboards</title>
-      <link>http://192.168.11.247/user1/categories/bareboards/</link>
+      <link>https://ice-energy.github.io/user1/categories/bareboards/</link>
       <pubDate>Fri, 11 May 2018 21:52:28 -0700</pubDate>
       
-      <guid>http://192.168.11.247/user1/categories/bareboards/</guid>
+      <guid>https://ice-energy.github.io/user1/categories/bareboards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://192.168.11.247/user1/categories/development/</link>
+      <link>https://ice-energy.github.io/user1/categories/development/</link>
       <pubDate>Wed, 23 May 2018 15:52:28 -0700</pubDate>
       
-      <guid>http://192.168.11.247/user1/categories/development/</guid>
+      <guid>https://ice-energy.github.io/user1/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems/Solutions</title>
-      <link>http://192.168.11.247/user1/categories/systems/solutions/</link>
+      <link>https://ice-energy.github.io/user1/categories/systems/solutions/</link>
       <pubDate>Sat, 26 May 2018 12:19:00 +0000</pubDate>
       
-      <guid>http://192.168.11.247/user1/categories/systems/solutions/</guid>
+      <guid>https://ice-energy.github.io/user1/categories/systems/solutions/</guid>
       <description></description>
     </item>
     
