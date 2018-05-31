@@ -23,14 +23,14 @@ cp ./docs/img/README.txt ./docs/README.md
 # ==========================================
 #
 
-#rm -rf ./docs_priv
-#hugo -c "./content_priv" -d "./docs_priv"
+rm -rf ./docs_priv
+hugo -c "./content_priv" -d "./docs_priv"
 
-#mkdir -p docs_priv/user1/docs/img
+mkdir -p docs_priv/user1/docs/img
 
 #
-#find content_priv -name cover_* -exec cp {} ./docs_priv/img            \;
-#find content_priv -name cover_* -exec cp {} ./docs_priv/user1/docs/img \;
+find content_priv -name cover_* -exec cp {} ./docs_priv/img            \;
+find content_priv -name cover_* -exec cp {} ./docs_priv/user1/docs/img \;
 
-#cp ./docs_priv/img/README.txt ./docs_priv/README.md
+cp ./docs_priv/img/README.txt ./docs_priv/README.md
 
