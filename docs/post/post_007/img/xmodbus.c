@@ -5,7 +5,7 @@
 
 
 // compile:    gcc xmodbus.c -lmodbus
-//1,0,0,0,0,2,772,7,35498
+// 1,0,0,0,0,2,772,7,35498
 
 
 void main( void )
