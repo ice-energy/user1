@@ -7,7 +7,7 @@ categories:
 - Systems/Solutions
 description : "A Hugo Repository stored in github, can be used as a Static Website"
 draft: false
-cover: "/jreed/img/cover_githubhugo.jpg"
+cover: "/user1/img/cover_githubhugo.jpg"
 menu: main
 
 ---
