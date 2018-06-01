@@ -11,8 +11,6 @@ thumbnail: "/user1/img/cover_githubhugo.jpg"
 menu: main
 ---
 
-![pic1](../img/cover_githubhugo.jpg)
-
 ---
 
 *Hugo* is an open-source static website generator.   It has many themes and many layouts
