@@ -2,7 +2,7 @@
 title: "CDC3_Host"
 date: 2018-05-23T15:52:28-07:00
 draft: false
-thumbnail: "../user1/post/post_001/img/cover_CDC3Host.jpg"
+thumbnail: "../user1/post/post_002/img/cover_CDC3Host.jpg"
 tags:
   - "zmq"
   - "linux"
