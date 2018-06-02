@@ -8,7 +8,7 @@ categories:
 - Systems/Solutions
 description : "a PLC-type controller with a Modbus interface is used to control an
 IceBear and also extract data from it"
-thumbnail: "../user1/post/post_007/img/cover_PLCmodules.png"
+thumbnail: "/img/cover_PLCmodules.png"
 draft: false
 menu: main
 
