@@ -8,7 +8,7 @@ categories:
 - Systems/Solutions
 description : "Because every Mad (Computer) Scientist needs their Hardware Wall-Mounted"
 draft: false
-thumbnail: "/user1/img/cover_wallmounted.jpg"
+thumbnail: "/img/cover_wallmounted.jpg"
 menu: main
 
 ---
