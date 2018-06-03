@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Esp32 on UserOne Docs n Recs</title>
+    <title>Esp32 on UserOne Docs n Stuff</title>
     <link>https://ice-energy.github.io/user1/tags/esp32/</link>
-    <description>Recent content in Esp32 on UserOne Docs n Recs</description>
+    <description>Recent content in Esp32 on UserOne Docs n Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2018 18:59:43 +0530</lastBuildDate>

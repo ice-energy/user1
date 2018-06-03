@@ -1,7 +1,7 @@
 baseURL                = "https://ice-energy.github.io/user1"
 languageCode           = "en-us"
 defaultContentLanguage = "en"
-title                  = "UserOne Docs n Recs"
+title                  = "UserOne Docs n Stuff"
 theme                  = "mainroad"
 paginate               = "8"
 canonifyURLs           = false
