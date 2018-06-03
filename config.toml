@@ -1,7 +1,7 @@
 baseURL                = "https://ice-energy.github.io/user1"
 languageCode           = "en-us"
 defaultContentLanguage = "en"
-title                  = "User1_Docs_nStuff"
+title                  = "UserOne Docs n Recs"
 theme                  = "mainroad"
 paginate               = "8"
 canonifyURLs           = false
@@ -12,7 +12,7 @@ enableEmoji      = true
 
 [Author]
 	name           = "User One"
-	bio            = "Computer Nerd, Business Analyst, closet Font enthusiast"
+	bio            = "Computer Nerd, Closet Font Enthusiast, Aspiring Golf League Website Designer"
 	avatar         = "img/user1.png"
         about          = true
 
